@@ -1,0 +1,5 @@
+# Ignore local config containing API keys
+config.py
+
+# Python virtual environment
+.venv/

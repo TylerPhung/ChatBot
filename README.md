@@ -41,7 +41,7 @@ This repository contains a personal chatbot that utilizes ChatGPT for generating
 
 1. Run the chatbot:
     ```bash
-    python chatbot.py
+    python chatgptaiphunguy.py
     ```
 
 2. Follow the prompts to interact with the chatbot via text and receive voice responses.
